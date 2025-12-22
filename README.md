@@ -4,4 +4,4 @@
 >
 > 图片路径：https://raw.githubusercontent.com/muyi-tech/images/master + 图片相对路径
 >
-> 如：https://raw.githubusercontent.com/muyi-tech/images/master/blog/tool/linux/check-sum.png
+> 如：https://raw.githubusercontent.com/muyi-tech/images/master/blog/tool/linux/01/check-sum.png
